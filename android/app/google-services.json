@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730167823326",
+    "project_id": "ahmed-c5aa2",
+    "storage_bucket": "ahmed-c5aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730167823326:android:d09cf60feb4f1c0b0aab4f",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gQrOicpw8M-fBdoC1r38VzaM1cpPv1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
